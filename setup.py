@@ -91,7 +91,7 @@ setup(
     ),
     license='Apache',
     long_description=open('README.rst').read(),
-    name='mrjob',
+    name='restless-mrjob',
     packages=[
         'mrjob',
         'mrjob.examples',
